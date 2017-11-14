@@ -1,0 +1,59 @@
+body {
+  background-color: #2c3e50;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.justify-content-center, .justify-content-center a, .justify-content-center a:hover {
+  color: #fff;
+}
+
+.fa-search, .btn {
+  cursor: pointer;
+}
+
+a {
+  color: #000;
+  text-decoration: none !important;
+  width: 100%;
+}
+
+.error-msg {
+  color: #dc3545;
+}
+
+.fa-search {
+  color: #ffc107;
+}
+
+.wiki-results {
+  margin-top: 20px;
+}
+
+.wiki-results a:hover {
+  color: #000;
+}
+
+.result-title {
+  font-weight: bold;
+}
+
+.wiki-results > a > .col {
+  padding: 5px;
+  background-color: #E7E7E8;
+  margin-bottom: 10px;
+}
+
+.wiki-results > a > .col:hover {
+  box-shadow: -5px 0px 0px 0px #ffc107;
+}
